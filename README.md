@@ -6,4 +6,6 @@ A student management system (also known as a student information system ) helps 
 ![Login](https://user-images.githubusercontent.com/61225994/107666342-6b987a00-6cb4-11eb-84d4-ef4a1644c09c.png)
 
 <h1>Home Page</h1>
+
+
 ![Home page](https://user-images.githubusercontent.com/61225994/107666799-e82b5880-6cb4-11eb-8775-bb47709ac62d.png)
